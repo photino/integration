@@ -1,2 +1,2 @@
-# integration
+# Integration
 Numerical integration library
